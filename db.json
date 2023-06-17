@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Shroukk",
+      "lastName": "Ziada",
+      "email": "shrouk@yahoo.com",
+      "dob": "1998-11-09T22:00:00.000Z",
+      "gender": "female",
+      "company": "DXT",
+      "experience": "Entry-level",
+      "salary": 5000,
+      "mobile": 12345678912,
+      "age": 25,
+      "id": 1
+    },
+    {
+      "firstName": "MO",
+      "lastName": "mo",
+      "email": "Mo@yahoo.com",
+      "dob": "2023-06-20T21:00:00.000Z",
+      "gender": "male",
+      "company": "HP",
+      "experience": "Mid-level",
+      "salary": 500,
+      "mobile": 1235489207,
+      "age": 20,
+      "id": 2
+    }
+  ]
+}

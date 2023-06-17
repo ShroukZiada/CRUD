@@ -1,0 +1,27 @@
+.formContent {
+    background-color: #fff !important;
+    padding: 15px 25px !important;
+}
+
+.content {
+    padding-top: 10px;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+    mat-form-field {
+        width: 100%;
+    }
+}
+
+.action {
+    padding: 0px 25px 30px;
+    button {
+        flex: 1;
+    }
+}
+
+.cancel {
+    margin: 15px;
+}
